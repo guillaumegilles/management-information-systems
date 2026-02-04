@@ -1,5 +1,5 @@
 ---
-title: "Information Systems Management"
+title: "Management Information Systems"
 subtitle: "Hello world"
 description: |
   Diagnostic sur les comptes individuels et sur les comptes consolidés.
